@@ -1,0 +1,7 @@
+Mammals (Class Mammalia):
+Canidae: Dogs, Wolves, Foxes.
+Felidae: Cats, Lions, Tigers.
+Ursidae: Bears.
+Elephantidae: Elephants.
+Cetaceae: Whales, Dolphins, Porpoises.
+Hominidae: Humans, Chimpanzees, Gorillas.
