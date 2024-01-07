@@ -1,1 +1,5 @@
-
+Reptiles (Class Reptilia):
+Testudinidae: Turtles, Tortoises.
+Varanidae: Monitor Lizards.
+Colubridae: Common Snakes.
+Alligatoridae: Alligators, Caimans.
