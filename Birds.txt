@@ -1,0 +1,6 @@
+Birds (Class Aves):
+Accipitridae: Eagles, Hawks, Kites.
+Corvidae: Crows, Ravens, Magpies.
+Paridae: Chickadees, Tits.
+Anatidae: Ducks, Geese, Swans.
+Psittacidae: Parrots.
